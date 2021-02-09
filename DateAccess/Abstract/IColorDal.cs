@@ -1,13 +1,11 @@
 ﻿using Entities.Concrete;
 using System;
 using System.Collections.Generic;
-using System.Linq.Expressions;
 using System.Text;
 
 namespace DateAccess.Abstract
 {
-    public interface ICarDal:IEntityRepository<Car>
-    { 
-
+    interface IColorDal : IEntityRepository<Color>
+    {
     }
 }

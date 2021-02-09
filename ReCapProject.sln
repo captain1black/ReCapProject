@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E4484B19-1146-459B-B384-B97C778A8C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{E4484B19-1146-459B-B384-B97C778A8C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAccess", "DateAccess\DateAccess.csproj", "{F06CA409-2AD3-4873-A7A0-1AEEE008E308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DateAccess\DataAccess.csproj", "{F06CA409-2AD3-4873-A7A0-1AEEE008E308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busieness", "Busieness\Busieness.csproj", "{44EAE2CF-B9EC-454A-98B3-A62502E78B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Busieness", "Busieness\Busieness.csproj", "{44EAE2CF-B9EC-454A-98B3-A62502E78B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{D9F0ED25-BB92-45A8-A93A-003A36DA496A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{D9F0ED25-BB92-45A8-A93A-003A36DA496A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
